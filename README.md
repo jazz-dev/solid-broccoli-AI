@@ -60,8 +60,5 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 This project is licensed under the MIT License.
 ```
 
-### Now, when you commit this `README.md` file and push it to GitHub, it should display properly:
-- **Headings** will be bold.
-- **Code blocks** will be highlighted.
-- **Bullets** will appear correctly.
+
 
